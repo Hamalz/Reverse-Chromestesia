@@ -1,5 +1,5 @@
 # REVERSE CHROMESTHESIA
-This project was presented as part of the exams of the courses of Computer Music - Representations and Models held by prof. A. Sarti and Advanced Coding Tools and Methodologies held by prof V. Rana and prof. F. Bruschi in A.Y. 2019-2020. Both courses are part of the M. Sc. in Music Engineering at Politecnico di Milano.
+This project was presented as part of the exams of the courses of Computer Music - Representations and Models held by prof. A. Sarti and Advanced Coding Tools and Methodologies held by prof V. Rana and prof. F. Bruschi in A.Y. 2019-2020. Both courses are part of the **M. Sc. in Music Engineering at Politecnico di Milano**.
 
 ## INTRODUCTION
 Let's first define what **chromesthesia** is: chromesthesia (or sound-to-color synesthesia) is a type of synesthesia in which sound involuntarily evokes an experience of color, shape, and movement in someone's mind. For some people, everyday sounds such as doors opening, cars honking, or people talking can trigger seeing colors. For others, colors are triggered when musical notes or keys are being pulayed. Colors triggered by certain sounds, as well as other synesthetic visual experiences, are referred to as *photisms*.
